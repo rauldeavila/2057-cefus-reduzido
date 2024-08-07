@@ -1,4 +1,4 @@
-PSI CEFUS
+PSI CEFUS.
 
 O que foi feito:
 ================================
